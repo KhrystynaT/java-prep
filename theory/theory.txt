@@ -1,0 +1,7 @@
+JDK - Java Development Kit - developers tools;
+JRE - Java RUntime Env. - libraries&toolkits;
+JVM - Java Virtual Machine - runs Java programs;
+_________
+IDE - Integrated Development Env. (software than helps us write software)
+Eclipse vs. IntelliJ IDEA
+_________
