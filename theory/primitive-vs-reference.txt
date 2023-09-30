@@ -1,0 +1,11 @@
+Primitive : 
+8 types( boolean, byte, etc.)
+stores datacan only hold 1 value 
+less memory
+fast
+Reference:
+unlimited (user defined)
+stores an address
+could hold more than 1 value
+more memory 
+slower
