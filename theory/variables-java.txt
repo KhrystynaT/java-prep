@@ -2,3 +2,7 @@ variable is a placeholder for a value that behaves as the value it contains.
 *
 If you need to assign a balue to a varible with a float data type it should be followed by "f"
 .
+int x; declaration 
+
+x = 123; assignment 
+int x = 123; initialization 
