@@ -5,3 +5,5 @@ _________
 IDE - Integrated Development Env. (software than helps us write software)
 Eclipse vs. IntelliJ IDEA
 _________
+System.out.print prints the text without the line break at the end
+System.out.println prints the text and the line break
